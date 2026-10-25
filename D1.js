@@ -9,3 +9,5 @@ const student={
     course: "B.Tech"
 };
 console.table(student);
+let age = 21;
+console.log(age);
