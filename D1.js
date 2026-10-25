@@ -11,3 +11,10 @@ const student={
 console.table(student);
 let age = 21;
 console.log(age);
+
+const college={
+    name:"Vivekananda Global University",
+    location:"Jaipur",
+    pincode: 823001
+};
+console.table(college);
