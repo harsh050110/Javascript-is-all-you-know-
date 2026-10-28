@@ -33,4 +33,7 @@ let z = y*10;
 console.log(100>109);
 x++;
 console.log(x);
+y--; 
+console.log(y);
+
 
