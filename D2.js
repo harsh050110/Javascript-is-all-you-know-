@@ -14,3 +14,10 @@ console.log("Student College: ",Student.college);
 console.log("Student Graduate: ",Student.isGraduate);
 console.log("Student CGPA: ",Student.cgpa);
 console.log("Student City: ", Student.city);
+
+// DAY:02
+// Operator Properties
+
+let a =10; 
+let b=20;
+console.log(a+b);
