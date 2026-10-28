@@ -17,4 +17,14 @@ const college={
     location:"Jaipur",
     pincode: 823001
 };
-console.table(college);
+ console.table(college);
+// const x = 10; 
+// x=20; 
+// console.log(x);
+
+const Employee={
+    name:"Saurbh Kumar",
+    Employee_ID: 739,
+    From : "Muzaffarpur"
+};
+console.table(Employee);
