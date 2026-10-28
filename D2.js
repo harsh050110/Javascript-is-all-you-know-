@@ -20,8 +20,8 @@ console.log("Student City: ", Student.city);
 
 let a =10; 
 let b=20;
-console.log(a+b);
+console.log("Addition: ",a+b);
 
-console.log(a-b);
-console.log(a*b);
-console.log(a/b);
+console.log("Substraction: ",a-b);
+console.log("Product: ",a*b);
+console.log("Division: ",a/b);
