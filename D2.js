@@ -31,4 +31,6 @@ let x =10;
 let y =100;
 let z = y*10;
 console.log(100>109);
+x++;
+console.log(x);
 
