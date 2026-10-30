@@ -28,3 +28,4 @@ const Employee={
     From : "Muzaffarpur"
 };
 console.table(Employee);
+
