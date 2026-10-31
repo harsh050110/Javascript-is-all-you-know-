@@ -10,3 +10,19 @@ if(age<18){
 }else{
     console.log("Not Adult");
 }
+
+
+
+let role = "student";
+
+switch (role) {
+    case "admin":
+        console.log("Admin");
+        break;
+
+    case "student":
+        console.log("Student");
+
+    default:
+        console.log("Guest");
+}
