@@ -50,3 +50,14 @@ switch(domain){
         default:
             console.log("Other Tech domains");
 }
+
+let biscuit = "Cream Biscuit";
+
+switch(biscuit){
+    case"Cream Biscuit":
+    console.log("Cream Biscuit");
+    case"Biscoff":
+    console.log("Biscoff");
+    default:
+        console.log("Other Biscuit");
+}
