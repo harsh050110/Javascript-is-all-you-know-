@@ -25,3 +25,12 @@ if(isLogged && nosigned){
 }else{
     console.log("Not started ");
 }
+
+let isStudent = true;
+let isTeacher = false;
+
+if(isStudent || isTeacher){
+    console.log("Entries allowed.");
+}else{
+    console.log("Not allowed");
+}
