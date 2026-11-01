@@ -26,3 +26,14 @@ switch (role) {
     default:
         console.log("Guest");
 }
+
+
+let empolyee_earning=200;
+
+if(empolyee_earning<=200){
+    console.log("Employee is good earning");
+}else if(empolyee_earning>=1000){
+    console.log("Employee is under");
+}else{
+    console.log("unemployed");
+}
