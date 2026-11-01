@@ -37,3 +37,16 @@ if(empolyee_earning<=200){
 }else{
     console.log("unemployed");
 }
+
+let domain= "Full Stack Developer";
+
+switch(domain){
+    case "Java Developer":
+        console.log("Java Developer");
+    case"Frontend Developer":
+    console.log("Frontend Developer");
+    case "Backend Developer":
+        console.log("Backend Developer");
+        default:
+            console.log("Other Tech domains");
+}
