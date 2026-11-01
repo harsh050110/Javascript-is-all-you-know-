@@ -17,3 +17,11 @@ if(username === "Harsh" && password === 980110){
 }else{
     console.log("Not logined");
 }
+let isLogged = true;
+let nosigned = false;
+
+if(isLogged && nosigned){
+    console.log("Start the course");
+}else{
+    console.log("Not started ");
+}
