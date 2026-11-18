@@ -35,14 +35,7 @@ if(isStudent || isTeacher){
     console.log("Not allowed");
 }
 
-let isLoggedIn = true;
-let isEnrolled = false;
 
-let message = isLoggedIn && isEnrolled
-    ? "Start Course"
-    : "Enroll First";
-
-console.log(message);
 
 let isLoggedIn = true;
 let isEnrolled = false;
